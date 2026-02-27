@@ -3,7 +3,7 @@ the captures folder is a good place.
 
 once these files are on the sd card and the sd card is installed back into the hackrf portapack
 
-go to replay button and select spectrum.c16
+go to replay button and select Spectrum_IQ.C16
 
 tune rtl-sdr radio to 915mhz and you should see:
 hello radio
