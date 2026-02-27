@@ -14,3 +14,9 @@ then tune a sdr waterfall to 915MHz to see spectrum art
 set span to 500khz 
 
 hello radio!!
+
+
+to make a new c16 file, a matlab or gnu octave script is attached as well.
+
+gnu octave is free and works for linux and windows.
+
