@@ -16,6 +16,9 @@ set span to 500khz
 hello radio!!
 
 
+if the text is upside down on the spectrum ,  then load the spectrum_flip.c16 file  and the spectrum_flip.txt file on the sd card.
+
+
 to make a new c16 file, a matlab or gnu octave script is attached as well.
 
 gnu octave is free and works for linux and windows.
